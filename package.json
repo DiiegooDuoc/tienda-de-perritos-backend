@@ -1,8 +1,9 @@
 {
   "name": "tienda-perritos-backend",
   "version": "1.0.0",
-  "description": "API backend para tienda de alimentos para perritos",
+  "description": "API backend para Innovatech Chile - tienda de perritos",
   "main": "server.js",
+  "private": true,
   "scripts": {
     "start": "node server.js"
   },
